@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./emotionale_unterstuetzung/static/css/main.af771717.chunk.css",
-    "main.js": "./emotionale_unterstuetzung/static/js/main.90655176.chunk.js",
-    "main.js.map": "./emotionale_unterstuetzung/static/js/main.90655176.chunk.js.map",
+    "main.js": "./emotionale_unterstuetzung/static/js/main.5fc2f2ad.chunk.js",
+    "main.js.map": "./emotionale_unterstuetzung/static/js/main.5fc2f2ad.chunk.js.map",
     "runtime~main.js": "./emotionale_unterstuetzung/static/js/runtime~main.ac0f2b5c.js",
     "runtime~main.js.map": "./emotionale_unterstuetzung/static/js/runtime~main.ac0f2b5c.js.map",
     "static/css/2.016185da.chunk.css": "./emotionale_unterstuetzung/static/css/2.016185da.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.65a8b092.chunk.js": "./emotionale_unterstuetzung/static/js/3.65a8b092.chunk.js",
     "static/js/3.65a8b092.chunk.js.map": "./emotionale_unterstuetzung/static/js/3.65a8b092.chunk.js.map",
     "index.html": "./emotionale_unterstuetzung/index.html",
-    "precache-manifest.1495b3bca3bb7406f1a1f7b38d575ec5.js": "./emotionale_unterstuetzung/precache-manifest.1495b3bca3bb7406f1a1f7b38d575ec5.js",
+    "precache-manifest.8b9de2fb59f3087a2f0ed1719c300963.js": "./emotionale_unterstuetzung/precache-manifest.8b9de2fb59f3087a2f0ed1719c300963.js",
     "service-worker.js": "./emotionale_unterstuetzung/service-worker.js",
     "static/css/2.016185da.chunk.css.map": "./emotionale_unterstuetzung/static/css/2.016185da.chunk.css.map",
     "static/css/main.af771717.chunk.css.map": "./emotionale_unterstuetzung/static/css/main.af771717.chunk.css.map",
