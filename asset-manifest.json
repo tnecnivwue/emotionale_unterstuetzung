@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.1e47bb78.css",
-    "main.js": "./static/js/main.1bc1c663.js",
-    "static/js/787.7e35f235.chunk.js": "./static/js/787.7e35f235.chunk.js",
-    "static/media/picture1.jpg": "./static/media/picture1.3f78afdacde93ac1ccca.jpg",
-    "index.html": "./index.html",
-    "main.1e47bb78.css.map": "./static/css/main.1e47bb78.css.map",
-    "main.1bc1c663.js.map": "./static/js/main.1bc1c663.js.map",
-    "787.7e35f235.chunk.js.map": "./static/js/787.7e35f235.chunk.js.map"
+    "main.css": "./emotionale_unterstuetzung/static/css/main.1e47bb78.css",
+    "main.js": "./emotionale_unterstuetzung/static/js/main.d3eac735.js",
+    "static/js/787.7e35f235.chunk.js": "./emotionale_unterstuetzung/static/js/787.7e35f235.chunk.js",
+    "static/media/picture1.jpg": "./emotionale_unterstuetzung/static/media/picture1.3f78afdacde93ac1ccca.jpg",
+    "index.html": "./emotionale_unterstuetzung/index.html",
+    "main.1e47bb78.css.map": "./emotionale_unterstuetzung/static/css/main.1e47bb78.css.map",
+    "main.d3eac735.js.map": "./emotionale_unterstuetzung/static/js/main.d3eac735.js.map",
+    "787.7e35f235.chunk.js.map": "./emotionale_unterstuetzung/static/js/787.7e35f235.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e47bb78.css",
-    "static/js/main.1bc1c663.js"
+    "static/js/main.d3eac735.js"
   ]
 }
