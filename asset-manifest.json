@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "./emotionale_unterstuetzung/static/css/main.1e47bb78.css",
-    "main.js": "./emotionale_unterstuetzung/static/js/main.d3eac735.js",
-    "static/js/787.7e35f235.chunk.js": "./emotionale_unterstuetzung/static/js/787.7e35f235.chunk.js",
-    "static/media/picture1.jpg": "./emotionale_unterstuetzung/static/media/picture1.3f78afdacde93ac1ccca.jpg",
+    "main.css": "./emotionale_unterstuetzung/static/css/main.af771717.chunk.css",
+    "main.js": "./emotionale_unterstuetzung/static/js/main.90655176.chunk.js",
+    "main.js.map": "./emotionale_unterstuetzung/static/js/main.90655176.chunk.js.map",
+    "runtime~main.js": "./emotionale_unterstuetzung/static/js/runtime~main.ac0f2b5c.js",
+    "runtime~main.js.map": "./emotionale_unterstuetzung/static/js/runtime~main.ac0f2b5c.js.map",
+    "static/css/2.016185da.chunk.css": "./emotionale_unterstuetzung/static/css/2.016185da.chunk.css",
+    "static/js/2.c4b9f08d.chunk.js": "./emotionale_unterstuetzung/static/js/2.c4b9f08d.chunk.js",
+    "static/js/2.c4b9f08d.chunk.js.map": "./emotionale_unterstuetzung/static/js/2.c4b9f08d.chunk.js.map",
+    "static/js/3.65a8b092.chunk.js": "./emotionale_unterstuetzung/static/js/3.65a8b092.chunk.js",
+    "static/js/3.65a8b092.chunk.js.map": "./emotionale_unterstuetzung/static/js/3.65a8b092.chunk.js.map",
     "index.html": "./emotionale_unterstuetzung/index.html",
-    "main.1e47bb78.css.map": "./emotionale_unterstuetzung/static/css/main.1e47bb78.css.map",
-    "main.d3eac735.js.map": "./emotionale_unterstuetzung/static/js/main.d3eac735.js.map",
-    "787.7e35f235.chunk.js.map": "./emotionale_unterstuetzung/static/js/787.7e35f235.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1e47bb78.css",
-    "static/js/main.d3eac735.js"
-  ]
+    "precache-manifest.1495b3bca3bb7406f1a1f7b38d575ec5.js": "./emotionale_unterstuetzung/precache-manifest.1495b3bca3bb7406f1a1f7b38d575ec5.js",
+    "service-worker.js": "./emotionale_unterstuetzung/service-worker.js",
+    "static/css/2.016185da.chunk.css.map": "./emotionale_unterstuetzung/static/css/2.016185da.chunk.css.map",
+    "static/css/main.af771717.chunk.css.map": "./emotionale_unterstuetzung/static/css/main.af771717.chunk.css.map",
+    "static/media/picture1.jpg": "./emotionale_unterstuetzung/static/media/picture1.065c8946.jpg"
+  }
 }
